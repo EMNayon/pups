@@ -5,12 +5,12 @@ import Navbar from '../commont/navbar/Navbar'
 
 export default function Wrapper() {
   return (
-    <>
+    <div className='h-screen'>
         <Navbar/>
-        <div>
+        <div className='h-full'>
             <Outlet/>
         </div>
        <Footer/>
-    </>
+    </div>
   )
 }
