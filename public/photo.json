@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "imgSrc" : "../photo/p1.jpg",
+        "details" : "।। নির্জন ।।"
+    },
+    {
+        "id": 2,
+        "imgSrc" :  "../photo/p2.jpg",
+        "details" : "|| FELIES CATUS ||"
+    },
+    {
+        "id": 3,
+        "imgSrc" :  "../photo/p3.jpg",
+        "details" : "II C H I L D  H O O D  II"
+    },
+    {
+        "id": 4,
+        "imgSrc" :  "../photo/p4.jpg",
+        "details" : "রঙের দুনিয়ার, এক রঙিন শহর...!"
+    },
+    {
+        "id": 5,
+        "imgSrc" :  "../photo/p5.jpg",
+        "details" : "inani beach, Cox's bazar"
+    },
+    {
+        "id": 6,
+        "imgSrc" :  "../photo/p6.jpg",
+        "details" : "লালবাগ কেল্লা।"
+    },
+    {
+        "id": 7,
+        "imgSrc" :  "../photo/p7.jpg",
+        "details" : "আলো আঁধার।"
+    },
+    {
+        "id": 8,
+        "imgSrc" :  "../photo/p8.jpg",
+        "details" : "COMBINATION"
+    },
+    {
+        "id": 9,
+        "imgSrc" :  "../photo/p9.jpg",
+        "details" : "After the rain"
+    },
+    {
+        "id": 10,
+        "imgSrc" :  "../photo/p10.jpg",
+        "details" : "Sunflower"
+    },
+    {
+        "id": 11,
+        "imgSrc" :  "../photo/p11.jpg",
+        "details" : "বেলা শেষে বাড়ি ফেরার পথে..."
+    },
+    {
+        "id": 12,
+        "imgSrc" :  "../photo/p12.jpg",
+        "details" : "বাংলাদেশ 🇧🇩"
+    },
+    {
+        "id": 13,
+        "imgSrc" :  "../photo/p13.jpg",
+        "details" : "C H I L D  H O O D"
+    },
+    {
+        "id": 14,
+        "imgSrc" :  "../photo/p14.jpg",
+        "details" : "|| CATERPILLER ||"
+    },
+    {
+        "id": 15,
+        "imgSrc" :  "../photo/p15.jpg",
+        "details" : "।। তিচালা ।।"
+    },
+    {
+        "id": 16,
+        "imgSrc" :  "../photo/p16.jpg",
+        "details" : "Boeing 777-300ER"
+    },
+    {
+        "id": 17,
+        "imgSrc" :  "../photo/p17.jpg",
+        "details" : "Chad"
+    },
+    {
+        "id": 18,
+        "imgSrc" :  "../photo/p18.jpg",
+        "details" : "PUPS"
+    },
+    {
+        "id": 19,
+        "imgSrc" :  "../photo/p19.jpg",
+        "details" : "অগ্নিমূর্ত প্রাকৃত।"
+    },
+    {
+        "id": 20,
+        "imgSrc" :  "../photo/p20.jpg",
+        "details" : "বাস্তবতার প্রতিচ্ছায়া"
+    },
+    {
+        "id": 21,
+        "imgSrc" :  "../photo/p21.jpg",
+        "Photographer" : "Soyad Hossain",
+        "details" : "P U P S"
+    },
+    {
+        "id": 22,
+        "imgSrc" :  "../photo/p22.jpg",
+        "details" : "এই শহরের বুকে, লুকিয়ে আছে আরেকটা শহর।"
+    },
+    {
+        "id": 23,
+        "imgSrc" :  "../photo/p23.jpg",
+        "details" : "C H I L D  H O O D"
+    }
+]

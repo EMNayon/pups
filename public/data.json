@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "Boost your conversion rate",
+        "subtitle": "Sub Title",
+        "href": "#",
+        "imgUrl" : "../people/p1.jpg",
+        "description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+        "date": "Mar 16, 2020",
+        "datetime": "2020-03-16",
+        "category": { "title": "Portrait Photography", "href": "#" },
+        "author": {
+          "name": "Pranab Sarkar",
+          "role": "Photography",
+          "href": "/about",
+          "imageUrl": "../people/p1.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Boost your conversion rate",
+        "subtitle": "Sub Title",
+        "href": "#",
+        "imgUrl" : "../people/p2.jpg",
+        "description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+        "date": "Mar 16, 2020",
+        "datetime": "2020-03-16",
+        "category": { "title": "Photojournalism", "href": "#" },
+        "author": {
+          "name": "Anis Sarker",
+          "role": "Photography",
+          "href": "#",
+          "imageUrl": "../people/p2.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Boost your conversion rate",
+        "subtitle": "Sub Title",
+        "href": "#",
+        "imgUrl" : "../people/p3.jpg",
+        "description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+        "date": "Mar 16, 2020",
+        "datetime": "2020-03-16",
+        "category": { "title": "Fashion Photography", "href": "#" },
+        "author": {
+          "name": "Ovi Paul",
+          "role": "Photography",
+          "href": "#",
+          "imageUrl": "../people/p3.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Boost your conversion rate",
+        "subtitle": "Sub Title",
+        "href": "#",
+        "imgUrl" : "../people/p4.jpg",
+        "description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+        "date": "Mar 16, 2020",
+        "datetime": "2020-03-16",
+        "category": { "title": "Sports Photography", "href": "#" },
+        "author": {
+          "name": "Nadiya Nowshin",
+          "role": "Photography",
+          "href": "#",
+          "imageUrl": "../people/p4.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Boost your conversion rate",
+        "subtitle": "Sub Title",
+        "href": "#",
+        "imgUrl" : "../people/p5.jpg",
+        "description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+        "date": "Mar 16, 2020",
+        "datetime": "2020-03-16",
+        "category": { "title": "Still Life Photography", "href": "#" },
+        "author": {
+          "name": "Vokti Bikash Ray",
+          "role": "Photography",
+          "href": "/about",
+          "imageUrl": "../people/p5.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Boost your conversion rate",
+        "subtitle": "Sub Title",
+        "href": "#",
+        "imgUrl" : "../people/p6.jpg",
+        "description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+        "date": "Mar 16, 2020",
+        "datetime": "2020-03-16",
+        "category": { "title": "Editorial Photography", "href": "#" },
+        "author": {
+          "name": "EM Nayon",
+          "role": "Photography",
+          "href": "#",
+          "imageUrl": "../people/p6.jpg"
+        }
+    },
+    {
+      "id": 7,
+      "title": "Boost your conversion rate",
+      "subtitle": "Sub Title",
+      "href": "#",
+      "imgUrl" : "../people/p7.jpg",
+      "description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+      "date": "Mar 16, 2020",
+      "datetime": "2020-03-16",
+      "category": { "title": "Architectural Photography", "href": "#" },
+      "author": {
+        "name": "EM Nayon",
+        "role": "Photography",
+        "href": "#",
+        "imageUrl": "../people/p7.jpg"
+      }
+  }
+
+]

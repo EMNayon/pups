@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <div className=''>
      <footer className = "bg-black py-10 text-center text-white items-center">
-            <div className = "footer-container container flex justify-between">
+            <div className = "footer-container flex justify-between">
                 <div className='my-10'>
                     <h2 className='text-lightGreen font-bold text-4xl tracking-widest '>SARAH DOE</h2>
                     <p className='opacity-50 text-center text-sm'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel obcaecati sapiente minima itaque nam modi libero optio vitae animi, praesentium quis commodi fugit quasi nostrum nihil veniam nisi suscipit cumque ducimus error doloribus est voluptatum at? Et aut mollitia quia.</p>

@@ -7,7 +7,7 @@ export default function Wrapper() {
   return (
     <div className='h-screen'>
         <Navbar/>
-        <div className='h-full'>
+        <div className=''>
             <Outlet/>
         </div>
        <Footer/>
